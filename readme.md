@@ -33,7 +33,7 @@ dependencies {
 # Effect picture
 
 
-![圆形图片效果图](https://github.com/huangziye/DouYin/blob/master/screenshot/DouYin.png)
+![圆形图片效果图](https://github.com/huangziye/DouYin/blob/master/screenshot/DouYin.gif)
 
 
 # Usage
